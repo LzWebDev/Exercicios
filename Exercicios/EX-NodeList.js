@@ -20,3 +20,5 @@ meubotao.addEventListener("click", () => {
     paragraf.classList.add("mudarDeCor")
 })
 console.log('Eu estou aqui')
+
+console.log('Testando Git')
