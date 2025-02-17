@@ -22,3 +22,4 @@ meubotao.addEventListener("click", () => {
 console.log('Eu estou aqui')
 
 console.log('Testando Git')
+console.log('contando as horas pra tentar usar o git')
